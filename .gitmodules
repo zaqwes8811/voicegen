@@ -1,0 +1,3 @@
+[submodule "apps/3rdparty/cpp-tricks"]
+	path = apps/3rdparty/cpp-tricks
+	url = https://github.com/zaqwes8811/cpp-tricks.git
